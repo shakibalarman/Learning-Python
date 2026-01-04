@@ -22,3 +22,5 @@ while True:
             print("Invalid ")
         else:
             print("Result ",num1/num2 )
+    else: 
+        print("invalid choice ")
