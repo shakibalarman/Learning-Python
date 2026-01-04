@@ -4,4 +4,4 @@ i = 2
 while i<=n:
     sum = sum + i
     i = i+2
-print("The sum is sum ", sum)
+print("The total is  ", sum)
