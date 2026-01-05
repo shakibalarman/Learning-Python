@@ -1,3 +1,5 @@
+
+
 num = int (input ("Enter the last number "))
 for i in range(1,num):
     print (i)
@@ -26,5 +28,7 @@ for i in range(1,5,1):
     sum = sum + i*i 
     #print(i*i)
 print(sum)
+
+
 
 
