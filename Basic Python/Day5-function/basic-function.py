@@ -10,6 +10,6 @@ def sub(x,y):
     print(sub)
 
 name()
-add(10,20)
+add(10,20) 
 sub(20,10)
 
