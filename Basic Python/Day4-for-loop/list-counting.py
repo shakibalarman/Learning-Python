@@ -13,5 +13,5 @@ for x in n:
 
 print("The number of letter is ", numberofletter)
 print("The number of digit is ", numbeofdigit )
-print("The number of word is", numberofword)
+print("The number of word is", numberofword +1)
  
