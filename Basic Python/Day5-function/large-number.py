@@ -3,5 +3,7 @@ def num(a,b):
         return a 
     else:
         return b
-largest = num   
-print("The largest number is ",num(10,20))
+x = num(10, 5)
+y = num(7,20)
+print("The largest number is", x)
+print("The largest number is", y)
