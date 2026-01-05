@@ -4,4 +4,4 @@ def num(a,b):
     else:
         return b
 largest = num   
-print("The largest number is ",largest(10,20))
+print("The largest number is ",num(10,20))
