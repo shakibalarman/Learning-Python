@@ -1,0 +1,14 @@
+numbers = []
+total = 0 
+
+for n in range(5):
+    num = int(input("Enter a number "))
+    numbers.append(num)
+    total+=num
+max_value=numbers[0]    
+for n in numbers:
+    if n > max_value:
+        max_value = n 
+print("The list is ",numbers )
+print("The total is ",total)
+print("The maximum value is ", max_value)
