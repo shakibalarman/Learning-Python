@@ -28,6 +28,7 @@ def find_top_student(students):
             top_student = name
 
     return top_student, highest_mark
+
 students = input_students()
 
 total = calculate_total(students)
