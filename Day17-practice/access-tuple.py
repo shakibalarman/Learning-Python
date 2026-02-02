@@ -2,7 +2,7 @@
 my_tuple = ("apple", "banana", "cherry", "mango", "orange")
 
 try:
-    
+
     index = int(input("Enter an index number: "))
 
    
