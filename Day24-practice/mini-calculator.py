@@ -10,6 +10,6 @@ try:
     division = a/b
     print ("The division is ", division )
 except ZeroDivisionError:
-    print("infinity")
+    print("Error: you cant divide by zero")
 except ValueError:
     print("Error: Pls enter a numeric degit ")
