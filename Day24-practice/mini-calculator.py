@@ -2,7 +2,7 @@ try:
     a = int(input("Enter a number: "))
     b = int(input("Enter another number: "))
     sum = a+b
-    print("The summation is ", sum )
+    print( sum )
     sub = a - b
     print("The substruction is ", sub )
     multiplication = a*b
