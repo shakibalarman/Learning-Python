@@ -13,4 +13,4 @@ try:
     print("Total Bill: ", bill)
 
 except ValueError:
-    print("❌ Invalid input")
+    print("❌ Invalid input: ")
