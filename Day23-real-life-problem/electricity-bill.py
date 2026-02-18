@@ -10,7 +10,7 @@ try:
     else:
         bill = (100 * 5) + (100 * 8) + (units - 200) * 10
 
-    print("Total Bill:", bill)
+    print("Total Bill: ", bill)
 
 except ValueError:
     print("❌ Invalid input")
