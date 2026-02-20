@@ -6,7 +6,7 @@ try:
     sub = a - b
     print("The substruction is ", sub )
     multiplication = a*b
-    print("The multiplication is ", multiplication)
+    print("The  multiplication is ", multiplication)
     division = a/b
     print ("The division is ", division )
 except ZeroDivisionError:
