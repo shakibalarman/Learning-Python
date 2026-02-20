@@ -1,4 +1,4 @@
-correct_username = "admin"
+correct_username = "admins"
 correct_password = "1234"
 
 username = input("Enter username: ")
