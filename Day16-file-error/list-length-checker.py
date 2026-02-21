@@ -9,6 +9,6 @@ try:
 except TypeError:
     print(" Error: ")
 except Exception:
-    print("Unexpected  Error ")
-print("The program is end ")
+    print("  Unexpected   Error   ")
+print("  The program   is   end   ")
     
