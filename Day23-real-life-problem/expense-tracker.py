@@ -11,7 +11,7 @@ try:
     total = sum(expenses.values())
 
     print("\n--- Expense Summary ---")
-    for name, amount in expenses.items():
+    for name, amount in  expenses.items():
         print(f"{name}: {amount}")
 
     print("Total Expense:", total)
