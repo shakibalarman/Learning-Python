@@ -3,7 +3,7 @@ class InvalidAgeException(Exception):
     pass
 number = 18
 try:
-    age = int(input("Enter your age "))
+    age = int(input("Enter  your  age "))
     if age < number:
         raise InvalidAgeException
     else:
