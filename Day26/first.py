@@ -4,4 +4,4 @@ try:
     result = a + b 
     print("The summation is ",result)
 except ValueError:
-    print("Error: enter the numeric value only ")
+    print("Error: enterf the  numeric value only ")
