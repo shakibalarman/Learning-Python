@@ -1,8 +1,15 @@
 marks = {}
+<<<<<<< HEAD
 n = int(input(" Enter  number  of  student "))
 for i in range(n):
     name = input (" Enter  student  names ")
     mark = int(input(" Enter  marks  for  students "))
+=======
+n = int(input(" Enter number of student "))
+for i in range(n):
+    name = input (" Enter student names ")
+    mark = int(input(" Enter  marks for students "))
+>>>>>>> b4477c81392a5a35e4dacf68eb6f359b573abd9b
     marks[name] = mark 
 #total number 
 total = 0 
