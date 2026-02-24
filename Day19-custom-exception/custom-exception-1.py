@@ -9,4 +9,4 @@ try:
     else:
         print("Eligible to vote ")
 except InvalidAgeException:
-    print("Exception is occured: Invalid Age ")
+    print("Exception  is  occured: Invalid  Age ")
