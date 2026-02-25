@@ -24,7 +24,7 @@ while True:
         print("Thank You! ")
         break     
     if choice == 1:
-        num = int(input("Enter a number "))
+        num = int(input("Enter  a  number "))
         if is_even(num):
             print("Even")
         else:
