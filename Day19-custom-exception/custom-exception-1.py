@@ -1,5 +1,5 @@
 class InvalidAgeException(Exception):
-    "Raised when age is less than 18 "
+    "Raised  when  age is less than 18 "
     pass
 number = 18
 try:
