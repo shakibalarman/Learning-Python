@@ -7,6 +7,6 @@ try:
     if age < number:
         raise InvalidAgeException
     else:
-        print("Eligible to vote ")
+        print("Eligible  to  vote ")
 except InvalidAgeException:
     print("Exception  is  occured: Invalid  Age ")
