@@ -17,7 +17,7 @@ while True:
     print("\n---Utility Menu---")
     print("1. Check Even or Odd")
     print("2. Find square")
-    print("3. Find largest of two number ")
+    print("3. Find biggest  of two number ")
     print("4. Exit ")
     choice = int(input("Enter your choice "))
     if choice == 4 :
