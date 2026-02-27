@@ -5,6 +5,6 @@ def is_even(a):
             return False
 
         
-for i in range(1,11):
+for i in range(1 , 19):
     if is_even(i):
         print(i)
